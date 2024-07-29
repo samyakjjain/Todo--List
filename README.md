@@ -11,6 +11,7 @@ AddTaskForm Component: Form for adding a new to-do.
 
 How to setup and run
 write in terminal the following steps....
+step0: git clone https://github.com/samyakjjain/Todo--List.git
 step1: cd to-do-list-app-react-wsp
 step2: npm install
 step3:npm start
