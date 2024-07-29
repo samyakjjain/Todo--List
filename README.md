@@ -10,6 +10,7 @@ Todo Component: Represents a single to-do item.
 AddTaskForm Component: Form for adding a new to-do.
 
 How to setup and run
+write in terminal the following steps....
 step1: cd to-do-list-app-react-wsp
 step2: npm install
 step3:npm start
